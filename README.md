@@ -14,6 +14,7 @@
 - 8個官方學習資源、12週實作計畫與2–3年能力養成框架。
 - 高維Hilbert空間維度、相位干涉、Bell態測量的瀏覽器教學模擬。
 - 可下載的Python／Qiskit練習與演講文字紀錄。
+- [對話紀錄與協作方法](https://oceanicdayi.github.io/2026_1013_quantum_talk/collaboration.html)：28筆使用者原文、20張照片對應、3筆可見的發布進度與完成回覆；搜尋／篩選、合作分析與4份可複製提示範本。
 
 這是依照片及現場筆記整理的網站，不是逐字稿。講者的發展時間預估與未來展望、編輯補充及教學建議分別標示。研究方案與案例圖不等於已驗證量子優勢。
 
@@ -39,6 +40,16 @@ GitHub Pages 已設定從 `main` 分支根目錄自動發布。更新檔案後�
 - `assets/data/photo-integrity.json`：檔案大小及SHA-256。
 - `docs/lecture-notes.md`：文字紀錄與全部照片連結。
 - `examples/first_quantum_steps.py`：純Python理想模擬及可選Qiskit模式。
+
+## 對話保存與合作回顧
+
+對話紀錄依本次目前可見訊息整理，不是平台匯出的完整聊天檔。中間助手／工具逐字內容未完整保留，另以工作摘要說明；沒有補造訊息發送時間。公開紀錄保留原始用字與姓名修正，排除憑證附件及值。
+
+- `collaboration.html`：原文與分析頁面，可搜尋、篩選及複製提示。
+- `docs/conversation-record.md`：可見原文與照片對應。
+- `assets/data/conversation-record.json`：結構化對話紀錄。
+- `docs/collaboration-analysis.md`：以訊息編號回查的分析、工作方法與驗收建議。
+- `docs/prompt-templates.md`：現場採集、製作發布、指定修改與日後接續的四份範本。
 
 ## 第一個Python實驗
 
