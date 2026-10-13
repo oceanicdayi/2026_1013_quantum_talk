@@ -4,6 +4,8 @@
 
 日期：2026-10-13。地點：中央氣象署。演講筆記與教學反思：陳達毅。
 
+網站已上線：[閱讀演講紀錄與學習指南](https://oceanicdayi.github.io/2026_1013_quantum_talk/)。
+
 ## 網站內容
 
 - 完整保留20張原始JPEG現場照片，按時間排序，可篩選、放大、左右切換、原尺寸查看及下載。
@@ -25,7 +27,7 @@
 
 也可在目前Pages設定已存在時直接由分支推送觸發發佈。
 
-網站預期網址：`https://oceanicdayi.github.io/2026_1013_quantum_talk/`。是否已上線請以GitHub Pages部署狀態為準。
+GitHub Pages 已設定從 `main` 分支根目錄自動發布。更新檔案後，GitHub會重新部署網站。
 
 ## 檔案
 
